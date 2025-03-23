@@ -1,0 +1,12 @@
+.container{
+    display: grid;
+    grid-template-columns: 1fr 1fr ;
+}
+
+.tittle{
+    text-align: center;
+    color: blue;
+}
+.body {
+    background-color: red !important;
+  }
